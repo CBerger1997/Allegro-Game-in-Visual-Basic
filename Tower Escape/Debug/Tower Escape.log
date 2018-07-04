@@ -1,0 +1,13 @@
+﻿Build started 16/05/2016 16:01:24.
+     1>Project "E:\University\Assignments\Software Programming\Assignment 2\Allegro Game Assignment Callum Berger\Tower Escape\Tower Escape\Tower Escape.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt LevelInitialisation.cpp
+         LevelInitialisation.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\University\Assignments\Software Programming\Assignment 2\Allegro Game Assignment Callum Berger\Tower Escape\Debug\Tower Escape.exe" /INCREMENTAL /NOLOGO alld.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\University\Assignments\Software Programming\Assignment 2\Allegro Game Assignment Callum Berger\Tower Escape\Debug\Tower Escape.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\University\Assignments\Software Programming\Assignment 2\Allegro Game Assignment Callum Berger\Tower Escape\Debug\Tower Escape.lib" /MACHINE:X86 Debug\LevelInitialisation.obj
+         Tower Escape.vcxproj -> E:\University\Assignments\Software Programming\Assignment 2\Allegro Game Assignment Callum Berger\Tower Escape\Debug\Tower Escape.exe
+     1>Done Building Project "E:\University\Assignments\Software Programming\Assignment 2\Allegro Game Assignment Callum Berger\Tower Escape\Tower Escape\Tower Escape.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.80
